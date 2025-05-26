@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript ecosystem and web development**
 
-- ⚡ Fun fact **I am an introvert**
+
 
 <p align="left">
 </p>
