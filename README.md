@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Goy Reagan</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🌱 I’m currently learning **React, Node.js and React Native.**
+- 🌱 I’m currently learning **Backend Python Development**
 
-- 💬 Ask me about **JavaScript ecosystem and web development**
+- 💬 Ask me about **Backend Technologies and  web development**
 
 
 
