@@ -74,11 +74,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=GOYREAGAN.GOYREAGAN&"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/GOYREAGAN/GOYREAGAN/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
